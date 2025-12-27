@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "AOI",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32644" } },
+"xy_coordinate_resolution": 1e-15,
+"features": [
+{ "type": "Feature", "properties": { "MINX": 484520.0, "MINY": 2967380.0, "MAXX": 505840.0, "MAXY": 2978580.0, "CNTX": 495180.0, "CNTY": 2972980.0, "AREA": 238784000.0, "PERIM": 65040.0, "HEIGHT": 11200.0, "WIDTH": 21320.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 484520.0, 2967380.0 ], [ 505840.0, 2967380.0 ], [ 505840.0, 2978580.0 ], [ 484520.0, 2978580.0 ], [ 484520.0, 2967380.0 ] ] ] } }
+]
+}
