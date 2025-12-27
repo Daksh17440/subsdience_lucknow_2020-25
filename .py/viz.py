@@ -5,9 +5,9 @@ from matplotlib.figure import Figure
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 import tkinter as tk
 from tkinter import ttk
-from tkinter import filedialog  # <--- Added for Save Dialog
+from tkinter import filedialog  
 import datetime
-import csv                    # <--- Added for CSV writing
+import csv                    
 from rasterio.warp import transform
 
 # ==========================================
